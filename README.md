@@ -11,8 +11,6 @@ The idea of this project is to load images, translate them into ASCII ART images
 Use <b>help</b> to get a list of all the possible filters. 
 
 <div style="display: flex;">
-  <img src="/png.png" style="width: 40%;" />
+  <img src="/png.png" style="width: 44%;" />
   <img src="/ascii.png" style="width: 50%;" /> 
 </div>
-![png_version](png.png)
-![ASCII_version](ascii.png)
